@@ -1,0 +1,3 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
+MyNextLifeDebi;2016-11-18 20:44;0;2;"quick fake a stomach cramp and camp out in the bathroom. A fake bout of diarrhea is the only way out of this.";;;;"799790430162452481";https://twitter.com/MyNextLifeDebi/status/799790430162452481
+viveytpyan;2016-11-17 21:42;0;1;"Early morning stomach not feeling well. Not sure what pain so I just ate gastric pill, diarrhea pill, vomiting pill and cramp pill. Fts";;;;"799442511613726720";https://twitter.com/viveytpyan/status/799442511613726720

@@ -1,0 +1,4 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
+jwloco;2015-07-26 11:37;0;0;"2 things that do not go together are a severe thigh cramp and diarrhea . Don't ask me how I know. #ShitHappens";;;#ShitHappens;"625329171611258880";https://twitter.com/jwloco/status/625329171611258880
+mattsblackwatch;2015-07-07 18:05;0;0;"@espinosaproud i have class at 8 and i cnt sleep bcos of this stupid diarrhea and leg cramp";;@espinosaproud;;"618541343338434564";https://twitter.com/mattsblackwatch/status/618541343338434564
+mattsblackwatch;2015-07-07 18:02;0;0;"STUPID DIARRHEA AND MUSCLE CRAMP AT 5 FREAKING AM IM CRYING";;;;"618540544130613248";https://twitter.com/mattsblackwatch/status/618540544130613248

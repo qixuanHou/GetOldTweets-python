@@ -1,0 +1,4 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
+Nuru_l;2014-02-18 05:39;1;0;"Then today I had diarrhea and menstrual cramp . And i kept fidgeting about.";;;;"435725326363004928";https://twitter.com/Nuru_l/status/435725326363004928
+shazahazwani;2014-02-17 12:18;0;0;"in hopes that this stomach cramp and diarrhea will be gone tomorrow u_u";;;;"435463312868790272";https://twitter.com/shazahazwani/status/435463312868790272
+syamimiasilah;2014-02-07 04:00;0;0;"Why do diarrhea and backpain need to come together with period cramp i can't even stand straight i wanna die now";;;;"431713975894425600";https://twitter.com/syamimiasilah/status/431713975894425600

@@ -1,0 +1,4 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
+nxxsha;2015-11-25 11:35;0;1;"Always before my period starts i get stomach cramp and diarrhea . My butt is literally on fire now.";;;;"669555035223625729";https://twitter.com/nxxsha/status/669555035223625729
+LinaAzman;2015-11-03 04:42;0;0;"Been having diarrhea for two days and still having it. And now to add to this suffer, an awful menstrual cramp .";;;;"661478493625020416";https://twitter.com/LinaAzman/status/661478493625020416
+CeciliaaaTalks;2015-11-01 07:47;0;0;"Diarrhea and cramp . What kind of a combo is this?";;;;"660800262282412032";https://twitter.com/CeciliaaaTalks/status/660800262282412032

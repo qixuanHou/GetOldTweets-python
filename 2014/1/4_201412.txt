@@ -1,0 +1,5 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
+unravel_ed;2014-12-08 03:14;0;0;"I don't have regular periods, I cramp like crazy, I diarrhea everywhere, and I throw up all over the place";;;;"541868495936315393";https://twitter.com/unravel_ed/status/541868495936315393
+fleg_bleebl;2014-12-07 18:17;0;2;"When you're turning on the lamp And you feel a sudden cramp DIARRHEA DIARRHEA";;;;"541733242500825089";https://twitter.com/fleg_bleebl/status/541733242500825089
+Khlip91;2014-12-04 20:58;0;0;"Semo sia really stomach cramp and diarrhea";;;;"540686586392743936";https://twitter.com/Khlip91/status/540686586392743936
+NegativeNadine;2014-12-03 17:24;0;0;"Hey girl, hey. I bet I can beat you through menstrual cramp island and the period diarrhea abyss! #pms #period pic.twitter.com/GDEdkgWZG4";;;#pms #period;"540270465088884736";https://twitter.com/NegativeNadine/status/540270465088884736

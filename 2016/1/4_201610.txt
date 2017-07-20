@@ -1,0 +1,3 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
+_trevorcavanagh;2016-10-26 11:26;0;1;"just this week I started calling it a " diarrhea cramp of an election" and now this happens";;;;"791300054271287296";https://twitter.com/_trevorcavanagh/status/791300054271287296
+AshSoRuthless_;2016-10-21 02:18;0;0;"yeah that prob wasn't enough to do anything cause usually it'll make you cramp and have bad diarrhea yeah it's def scary tbh.";;;;"789350016045330432";https://twitter.com/AshSoRuthless_/status/789350016045330432

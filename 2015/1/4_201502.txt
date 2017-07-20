@@ -1,0 +1,2 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
+hmppi_uph;2015-02-17 09:22;1;0;"(6) People infected with Salmonellosis will undergo diarrhea , fever, and abdominal cramp 12-72 hours after infection #letstalk";;;#letstalk;"567690457447022594";https://twitter.com/hmppi_uph/status/567690457447022594

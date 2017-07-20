@@ -1,0 +1,5 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
+aweklesungpipit;2014-10-12 01:44;0;0;"Diarrhea and cramp .";;;;"521174606187470848";https://twitter.com/aweklesungpipit/status/521174606187470848
+BradBritton;2014-10-06 17:14;0;2;"Monday is taco salad day at work. Which usually means stomach cramp afternoon and diarrhea night.";;;;"519234383123722240";https://twitter.com/BradBritton/status/519234383123722240
+Hanjieeee;2014-10-04 03:14;0;0;"Fking diarrhea and stomach cramp zzz";;;;"518298179708547072";https://twitter.com/Hanjieeee/status/518298179708547072
+lukechido;2014-10-04 01:35;7;22;"My period story: I thought I had diarrhea cause my tummy hurt but it was actually a cramp and then I saw blood and cried and called my mom";;;;"518273215949705216";https://twitter.com/lukechido/status/518273215949705216

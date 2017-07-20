@@ -1,0 +1,4 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
+DahhLeen;2014-11-20 01:37;2;1;"" @beeVicious : i know if i stretch my legs, i'll get a cramp . lmao i feel it" worst feeling ever next to having diarrhea and wanting to fart";;@beeVicious;;"535321014540849153";https://twitter.com/DahhLeen/status/535321014540849153
+gschiere;2014-11-05 21:28;0;0;"Gripes: cramp attack in the stomach, nausea and diarrhea #article #health http://www. 123-how.com/gripes-cramp-a ttack-in-the-stomach-nausea-and-diarrhea …";;;#article #health;"530185015561179138";https://twitter.com/gschiere/status/530185015561179138
+stefanniealvita;2014-11-02 03:51;0;0;"I think I just redefined "pain" by having a belly cramp and stomachache from diarrhea at the same time. #fuckinghell";;;#fuckinghell;"528831666479853568";https://twitter.com/stefanniealvita/status/528831666479853568

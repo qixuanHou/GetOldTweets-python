@@ -1,0 +1,2 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
+stratomizers;2016-09-09 06:53;0;5;"When you're having a monthly cramp and diarrhea at the same time it's like you can't tell whether it's actually a cramp or you need to poo";;;;"774199044742615040";https://twitter.com/stratomizers/status/774199044742615040

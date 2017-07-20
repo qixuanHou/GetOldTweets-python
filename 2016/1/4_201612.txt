@@ -1,0 +1,2 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
+detroit_jason;2016-12-05 12:27;0;0;"can't decide what was better, Root's explosive diarrhea and partially torn ACL, or cramp 's grandma dying 3 times";;;;"805826032452440064";https://twitter.com/detroit_jason/status/805826032452440064

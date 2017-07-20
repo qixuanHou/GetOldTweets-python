@@ -1,0 +1,2 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
+CheekyLidie;2016-08-22 21:44;0;1;"Big thanks to Jan for the phenomenal pineapple yogurt loaf, tasted like summertime! Both Hayden and Hunter got cramp free diarrhea from it!";;;;"767900224950005761";https://twitter.com/CheekyLidie/status/767900224950005761

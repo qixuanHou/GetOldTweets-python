@@ -1,0 +1,7 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
+JokesDiarrhea;2015-05-27 11:52;0;1;"When your fixing your lamp, And you start to feel a cramp , Diarrhea !";;;;"603589619804971008";https://twitter.com/JokesDiarrhea/status/603589619804971008
+Pharma_Markets;2015-05-26 10:24;0;0;"#Pharmaceutical attapulgite : Diarrhea and Cramp : : http:// dg-di.eu/P31/4140.htm #Surveys #MarketResearchReports #Forecasts #Marketing";;;#Pharmaceutical #Surveys #MarketResearchReports #Forecasts #Marketing;"603205186081947648";https://twitter.com/Pharma_Markets/status/603205186081947648
+HerpduhDerp;2015-05-13 20:05;0;0;"Fking hell that char kuey tiao got problems fking 2 days stomach cramp and diarrhea";;;;"598640335489634304";https://twitter.com/HerpduhDerp/status/598640335489634304
+Pharma_Markets;2015-05-10 22:20;0;0;"#Pharmaceutical attapulgite : Diarrhea and Cramp : : http:// dg-di.eu/P31/4140.htm #MarketResearch";;;#Pharmaceutical #MarketResearch;"597586963747753984";https://twitter.com/Pharma_Markets/status/597586963747753984
+minniechangg;2015-05-10 13:48;0;0;"Abdomen issues: diarrhea , then gastric and then period cramp . Perfect. But im all good.";;;;"597458210266578944";https://twitter.com/minniechangg/status/597458210266578944
+TheBoozeCube;2015-05-02 15:44;0;0;"@JasonEAlt When you're equipping a Skulclamp, and your bowels start to cramp , diarrhea , diarrhea . #mtgdiarrhea";;@JasonEAlt;#mtgdiarrhea;"594588207578271747";https://twitter.com/TheBoozeCube/status/594588207578271747

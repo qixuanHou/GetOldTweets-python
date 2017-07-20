@@ -1,0 +1,3 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
+NarayanaHealth;2016-04-13 09:32;5;9;"Ulcerative colitis affects the bowel, causing severe diarrhea , abdominal cramp and even bleeding. #KnowYourSymptoms pic.twitter.com/odC5UIDy9r";;;#KnowYourSymptoms;"720243241942036480";https://twitter.com/NarayanaHealth/status/720243241942036480
+Carlo_ThChThr;2016-04-12 10:36;0;1;"oh wonderful. let me know when you've perfected your diarrhea and menstrual cramp simulator. pic.twitter.com/0uEgpLjjon";;;;"719897024817205248";https://twitter.com/Carlo_ThChThr/status/719897024817205248

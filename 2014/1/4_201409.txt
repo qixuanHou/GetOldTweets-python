@@ -1,0 +1,3 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
+viconapufaze;2014-09-27 02:41;0;0;"Diarrhea and /or constipation, and cramp -like pains in http:// goo.gl/fb/WOpkyF";;;;"515753179116347392";https://twitter.com/viconapufaze/status/515753179116347392
+johnnywizzz;2014-09-24 12:31;0;1;"Pam mentioned Frogs during acting, and I swear to the Holy Yoncé I clenched my butthole so tight because I got a diarrhea cramp .";;;;"514814347424854016";https://twitter.com/johnnywizzz/status/514814347424854016

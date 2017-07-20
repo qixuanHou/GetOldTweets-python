@@ -1,0 +1,5 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
+Pharma_Data;2015-10-29 17:40;0;1;"#Pharmaceuticals attapulgite : Diarrhea and Cramp : http:// dg-di.eu/P31/4140.htm #Surveys #MarketResearchReports #Forecasts #Marketing";;;#Pharmaceuticals #Surveys #MarketResearchReports #Forecasts #Marketing;"659847379324182528";https://twitter.com/Pharma_Data/status/659847379324182528
+curtinconfess;2015-10-23 21:32;0;0;"#4434 After eating at Lao hong ji, I got sudden stomach cramp , then follow by diarrhea and vomiting. I have... http:// fb.me/7QUs11TtQ";;;#4434;"657731400347418624";https://twitter.com/curtinconfess/status/657731400347418624
+Dulcesally;2015-10-13 00:47;0;0;"Diarrhea and menses cramp on the same day";;;;"653794223037112320";https://twitter.com/Dulcesally/status/653794223037112320
+MOS6581_;2015-10-07 08:18;0;0;"(Tmi) please pray 4 me I don't get period- cramp induced diarrhea at work and pass out from pain, thank you";;;;"651733300281769984";https://twitter.com/MOS6581_/status/651733300281769984

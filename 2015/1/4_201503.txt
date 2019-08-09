@@ -1,5 +1,0 @@
-username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
-skywalker3981;2015-03-28 02:19;0;0;"Today is the worst day to go out. Stomach cramp because of monthly period and diarrhea because of last night's homemade chili sauce ~_~ㅗ";;;;"581702103363510272";https://twitter.com/skywalker3981/status/581702103363510272
-jaguar9576;2015-03-12 11:38;0;0;"@j0r_dr0p_d3ad I think worst case is you might cramp up a bit and get diarrhea that can paint walls. So there's that I guess";;@j0r_dr0p_d3ad;;"576044624545996800";https://twitter.com/jaguar9576/status/576044624545996800
-Pharma_Markets;2015-03-07 15:42;0;0;"#Pharmaceutical attapulgite : Diarrhea and Cramp : : http:// dg-di.eu/P31/4140.htm #MarketResearch";;;#Pharmaceutical #MarketResearch;"574309280020623361";https://twitter.com/Pharma_Markets/status/574309280020623361
-topsheep96;2015-03-01 17:41;0;0;"Experienced the worst cramp ever, literally puked twice and had a diarrhea . Cried the whole night bc it was so painful and fell asleep.";;;;"572164705499791362";https://twitter.com/topsheep96/status/572164705499791362

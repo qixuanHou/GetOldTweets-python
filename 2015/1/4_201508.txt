@@ -1,3 +1,0 @@
-username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
-erislimx;2015-08-24 08:32;0;0;"oh great period cramp and diarrhea ??????????";;;;"635791704910524416";https://twitter.com/erislimx/status/635791704910524416
-Pharma_Markets;2015-08-03 15:42;0;0;"#Pharmaceutical attapulgite : Diarrhea and Cramp : http:// dg-di.eu/P31/4140.htm #Surveys #MarketResearchReports #Forecasts #Marketing #mrx";;;#Pharmaceutical #Surveys #MarketResearchReports #Forecasts #Marketing #mrx;"628289972060225536";https://twitter.com/Pharma_Markets/status/628289972060225536

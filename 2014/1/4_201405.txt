@@ -1,5 +1,0 @@
-username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
-ktneedcorn;2014-05-28 06:15;0;1;"I cannot different shape menses cramp and diarrhea stomach ache. Wtf.";;;;"471595545895526402";https://twitter.com/ktneedcorn/status/471595545895526402
-marmanohara;2014-05-17 01:50;0;0;"@alahaisayangku monthly cramp and diarrhea . T-T";;@alahaisayangku;;"467542765107445760";https://twitter.com/marmanohara/status/467542765107445760
-alyaqisstina;2014-05-08 04:11;0;0;"Mild fever, diarrhea , vomiting, period cramp , dehydration and exams after exams. Because Allah loves me, He wants me to be strong. :')";;;;"464316753464799232";https://twitter.com/alyaqisstina/status/464316753464799232
-hellooholly;2014-05-04 20:40;0;0;""It just seems like every time I eat cake or cake frosting I always just get a cramp and get diarrhea ." Said 4 times";;;;"463115919477063680";https://twitter.com/hellooholly/status/463115919477063680

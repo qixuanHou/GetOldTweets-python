@@ -1,5 +1,0 @@
-username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
-rebootmyheart;2014-08-16 16:28;0;0;"No idea what when wrong just now that suddenly I got bad cramp and then diarrhea .";;;;"500740784824389633";https://twitter.com/rebootmyheart/status/500740784824389633
-BizzleTurnt;2014-08-12 21:07;0;0;"I have a bad cramp and I think I'm going to get diarrhea";;;;"499361458086748162";https://twitter.com/BizzleTurnt/status/499361458086748162
-unicornboy90;2014-08-10 01:22;0;0;"@JermaineMainee stomach cramp and diarrhea for 5days straight and counting";;@JermaineMainee;;"498338619778555910";https://twitter.com/unicornboy90/status/498338619778555910
-PettyPettiPetay;2014-08-01 12:15;2;0;"Today is period day 1,my flow too heavy. My cramp is on a hunnit, i have diarrhea and im working 17.5 hours today into tomorrow. Like.....";;;;"495241508359274496";https://twitter.com/PettyPettiPetay/status/495241508359274496

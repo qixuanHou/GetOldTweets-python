@@ -1,3 +1,0 @@
-username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
-Pharma_Data;2015-12-18 22:52;0;0;"#Pharmaceuticals attapulgite : Diarrhea and Cramp : http:// dg-di.eu/P31/4140.htm #Surveys #MarketResearchReports #Forecasts #Marketing";;;#Pharmaceuticals #Surveys #MarketResearchReports #Forecasts #Marketing;"678060361657004032";https://twitter.com/Pharma_Data/status/678060361657004032
-Who_Dat_Jelleh;2015-12-03 16:49;0;1;"Yo @coldplay .. NO ONE wants you at Superbowl .... please get diarrhea and cramp away on that day!";;@coldplay;;"672533074144440324";https://twitter.com/Who_Dat_Jelleh/status/672533074144440324

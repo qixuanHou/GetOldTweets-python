@@ -1,3 +1,0 @@
-username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
-petersamet;2015-04-22 15:32;0;5;"I was calmly brainstorming when my brain suffered an explosion of story diarrhea . Took 3 loose leaf pages and a hand cramp to clean it up.";;;;"590961296784293888";https://twitter.com/petersamet/status/590961296784293888
-Pharma_Markets;2015-04-12 21:21;0;0;"#Pharmaceutical attapulgite : Diarrhea and Cramp : : http:// dg-di.eu/P31/4140.htm #MarketResearch";;;#Pharmaceutical #MarketResearch;"587425452240859136";https://twitter.com/Pharma_Markets/status/587425452240859136

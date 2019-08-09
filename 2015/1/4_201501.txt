@@ -1,3 +1,0 @@
-username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
-Pharma_Markets;2015-01-28 11:44;0;0;"#Pharmaceutical #MarketResearch : attapulgite : Diarrhea and Cramp : : http:// dg-di.eu/P31/4140.htm";;;#Pharmaceutical #MarketResearch;"560478607307706368";https://twitter.com/Pharma_Markets/status/560478607307706368
-iheartyoumost;2015-01-12 01:37;0;0;"Wa Lao. Vomited three times in the office. Something wrong with me. With tummy cramp and slightly diarrhea :'(";;;;"554527490002006017";https://twitter.com/iheartyoumost/status/554527490002006017

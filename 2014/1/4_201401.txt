@@ -1,6 +1,0 @@
-username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
-noviearisman;2014-01-29 21:39;0;0;"Period cramp , diarrhea , and sinuses all gone. Butttt, not so welcome..sore throat, migraine dan badanpun… — https:// path.com/p/3sd9Nl";;;;"428719156150558720";https://twitter.com/noviearisman/status/428719156150558720
-Alicia78048038;2014-01-28 19:08;0;0;"When you're walking down the ramp and your butt begins to cramp , diarrhea , diarrhea";;;;"428318649381052416";https://twitter.com/Alicia78048038/status/428318649381052416
-iemsrossics;2014-01-27 07:19;0;0;"what if this was just a more painful abdominal cramp with the constant burping that smells like rotten eggs and diarrhea";;;;"427777824787668993";https://twitter.com/iemsrossics/status/427777824787668993
-othmanjamhari;2014-01-26 08:27;0;0;"Ughh... diarrhea and stomach cramp . Lenguh 1 badan";;;;"427432634562523136";https://twitter.com/othmanjamhari/status/427432634562523136
-Mpulikie;2014-01-01 13:38;0;0;"No. Diarrhea " @Mchimaro : Stomach cramp ? RT @Mpulikie : And my Mom recommend Vinegar for my problem. Eeuuww!"";;@Mchimaro @Mpulikie;;"418451274078887936";https://twitter.com/Mpulikie/status/418451274078887936

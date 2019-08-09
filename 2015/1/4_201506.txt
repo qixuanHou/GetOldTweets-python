@@ -1,3 +1,0 @@
-username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
-AngeloMT;2015-06-24 11:23;0;0;"@Irislinnn @DSINPING k, i give up but hope ur have nightmares and ur legs cramp n ur have diarrhea tonight & it's Angelo*";;@Irislinnn @DSINPING;;"613729080664457216";https://twitter.com/AngeloMT/status/613729080664457216
-DrayHalle;2015-06-16 22:08;0;6;"My whole family wished diarrhea upon Steph Curry so hopefully he'll feel a stomach cramp soon and he'll leave";;;;"610992329080598528";https://twitter.com/DrayHalle/status/610992329080598528
